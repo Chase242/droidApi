@@ -1,7 +1,7 @@
 {
   "name": "droidapi",
   "version": "1.0.0",
-  "description": "renan é bixa\r  teste\r  cdcdc",
+  "description": "droidapi\r  teste\r  cdcdc",
   "main": "a.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
